@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🤔 Tengo amplia experiencia programando en visual FoxPro y en el manejo de SQL
 - 💬 Puedes preguntarme lo que quieras saber sobre Python
 - 📫 Estoy capacitado para Exploracion, Limpieza, Diagramas y Analisis de Datos
+ -->
